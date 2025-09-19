@@ -1,4 +1,4 @@
-//cpp Deleteatpos
+// Singly Linear LinkedList
 
 #include<iostream>
 using namespace std;
@@ -268,3 +268,4 @@ int main()
 
     return 0;
 }
+
