@@ -1,4 +1,4 @@
-// Display , Count
+
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -98,8 +98,7 @@ int main()
 
     iRet = Pop(&first);
     printf("Popped element is :%d\n",iRet);
-
     
-
     return 0;
+
 }
