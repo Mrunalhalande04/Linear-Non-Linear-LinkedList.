@@ -45,6 +45,7 @@ class Stack
     {
         if(head==null)
          {
+                 System.out.println("Stack is empty"); 
             return;
          }
 
